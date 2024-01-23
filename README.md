@@ -13,7 +13,7 @@ User can check course they want to attend, and pay it.
 - **REACT Projects:**
   - **To-Do List App** - An interactive and user-friendly task management application.
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.
-- **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game]([https://github.com/ofiscarlett/numberguess.git])
+- **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
 
 
 ## 💻 Skills
