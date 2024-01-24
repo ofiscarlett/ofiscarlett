@@ -12,7 +12,7 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
   [Fitness Website Project](https://github.com/ofiscarlett/fitnessProject.git)
 - **REACT Projects:**
   - **To-Do List App** - An interactive and user-friendly task management application.
-  - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.
+  - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App] (https://github.com/ofiscarlett/parcelDeliveryApp)
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
 
 
