@@ -19,7 +19,7 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
 ## 💻 Skills
 - **Front-End Development:** Proficient in creating responsive and interactive UI designs.
 - **Back-End Development:** Experience in server-side logic and database management.
-- **Programming Languages:** Skilled in JavaScript, TypeScript, and Python.
+- **Programming Languages:** Skilled in JavaScript, TypeScript, React and Python.
 - **Web Technologies:** Well-versed in HTML, CSS, and React.js framework.
 - **Databases:** Knowledgeable in SQL and PostgreSQL.
 - **Other:** Familiar with Node.js for building scalable network applications.
