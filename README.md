@@ -14,7 +14,7 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
   - **To-Do List App** - An interactive and user-friendly task management application.
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
-- **Helper and Helps App** - It is a kotlin App for busy parents to find some short time nanny to help them. [HelpAndHelpersApp]-(https://github.com/MobileDevelopmentProject-Group2/HelpAndHelpersApp)
+- **Helper and Helps App** - It is a android phone app used kotlin to program. This app is for busy parents to find some short time nanny to help them. [HelpAndHelpersApp](https://github.com/MobileDevelopmentProject-Group2/HelpAndHelpersApp)
 
 
 
