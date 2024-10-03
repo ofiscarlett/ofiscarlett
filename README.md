@@ -32,6 +32,6 @@ I believe in continuous learning and am committed to enhancing my skills as a de
 Feel free to check out my repositories and reach out if you'd like to collaborate on a project or discuss tech!
 
 
-[![LinkedIn](https://www.linkedin.com/in/scarlett-shufen-puhakka-7a78a678/)](https://www.linkedin.com/in/scarlett-shufen-puhakka-7a78a678/)
+[![LinkedIn](https://www.linkedin.com/in/scarlett-shufen-cheng-7a78a678/)](https://www.linkedin.com/in/scarlett-shufen-cheng-7a78a678/)
 
 
