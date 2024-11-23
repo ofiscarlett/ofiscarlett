@@ -5,9 +5,11 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
 ## 📚 Education
 - **Bachelor's Degree in Information Technology**
   - Oulu University of Applied Sciences (OAMK)
-  - Second Year
+  - 3rd Year
 
 ## 🛠️ Projects
+- **Python** - Machine learing, computer version and data anyalsis.
+- **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing)
 - **Fitness Website Project** - A fitness course platform with complete front-end and back-end development. Frontend is using HTML, CSS, TypeScript and backend to database server is PostgreSQL. User can check course they want to attend, and pay it.
   [Fitness Website Project](https://github.com/ofiscarlett/fitnessProject.git)
 - **REACT Projects:**
