@@ -10,15 +10,18 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
   - **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring. 
-- **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing)
+-**Kotlin** 
+  - **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing) 
  [Ruutinkangas Drone Project](https://github.com/ofiscarlett/RuutikangasProject)
-- **Fitness Website Project** - A fitness course platform with complete front-end and back-end development. Frontend is using HTML, CSS, TypeScript and backend to database server is PostgreSQL. User can check course they want to attend, and pay it.
+  - **Helper and Helps App** - It is a android phone app used kotlin to program. This app is for busy parents to find some short time nanny to help them. [HelpAndHelpersApp](https://github.com/MobileDevelopmentProject-Group2/HelpAndHelpersApp)
+
+- **Front end Website Project**
+  - **Fitness Website Project** - A fitness course platform with complete front-end and back-end development. Frontend is using HTML, CSS, TypeScript and backend to database server is PostgreSQL. User can check course they want to attend, and pay it.
   [Fitness Website Project](https://github.com/ofiscarlett/fitnessProject.git)
 - **REACT Projects:**
   - **To-Do List App** - An interactive and user-friendly task management application.
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
-- **Helper and Helps App** - It is a android phone app used kotlin to program. This app is for busy parents to find some short time nanny to help them. [HelpAndHelpersApp](https://github.com/MobileDevelopmentProject-Group2/HelpAndHelpersApp)
 
 
 
