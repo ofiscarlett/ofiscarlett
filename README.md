@@ -9,7 +9,7 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
 
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
-  - **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring.
+- **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring.
 
 - **Kotlin** 
   - **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing) 
