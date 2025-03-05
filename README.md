@@ -1,6 +1,6 @@
 # Hello, I'm Scarlett! 👋
 
-I'm a second-year Information Technology student at OAMK with a passion for building and exploring new technologies.
+I'm a third-year Information Technology student at OAMK with a passion for building and exploring new technologies.
 
 ## 📚 Education
 - **Bachelor's Degree in Information Technology**
@@ -22,9 +22,12 @@ I'm a second-year Information Technology student at OAMK with a passion for buil
 - **REACT Projects:**
   - **To-Do List App** - An interactive and user-friendly task management application.
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
+  - **Shooting center user app** - For shooting center employee easy to find user and upload their video.[Shooting Center USer App](https://github.com/ofiscarlett/ruutikangas-userapp)
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
 
 
+
+ 
 
 
 ## 💻 Skills
