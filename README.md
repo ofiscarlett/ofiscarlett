@@ -19,6 +19,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 - **Front end Website Project**
   - **Fitness Website Project** - A fitness course platform with complete front-end and back-end development. Frontend is using HTML, CSS, TypeScript and backend to database server is PostgreSQL. User can check course they want to attend, and pay it.
   [Fitness Website Project](https://github.com/ofiscarlett/fitnessProject.git)
+- **Offering Letter Creator Project** - This a small project which help HR to generate offering letter by give input on website. 
 - **REACT Projects:**
   - **To-Do List App** - An interactive and user-friendly task management application.
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
