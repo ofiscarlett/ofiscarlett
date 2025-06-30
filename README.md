@@ -24,6 +24,8 @@ I'm a third-year Information Technology student at OAMK with a passion for build
   - **To-Do List App** - An interactive and user-friendly task management application.
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
   - **Shooting center user app** - For shooting center employee easy to find user and upload their video.[Shooting Center USer App](https://github.com/ofiscarlett/ruutikangas-userapp)
+  - **Voice to EHR MVP1** - Use AI to transcirbt voice to raw text then start EHR, the system use AI to analyze the transcribed text and sturcted it to medical categories. [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
+- **School practice project** 
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
 
 
