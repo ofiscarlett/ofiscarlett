@@ -10,7 +10,11 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
 - **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring.
-
+- **REACT Projects:**
+  - **To-Do List App** - An interactive and user-friendly task management application.
+  - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
+  - **Shooting center user app** - For shooting center employee easy to find user and upload their video.[Shooting Center USer App](https://github.com/ofiscarlett/ruutikangas-userapp)
+  - **Voice to EHR MVP1** - Use AI to transcirbt voice to raw text then start EHR, the system use AI to analyze the transcribed text and sturcted it to medical categories. [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
 - **Kotlin** 
   - **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing) 
  [Ruutinkangas Drone Project](https://github.com/ofiscarlett/RuutikangasProject)
@@ -20,11 +24,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
   - **Fitness Website Project** - A fitness course platform with complete front-end and back-end development. Frontend is using HTML, CSS, TypeScript and backend to database server is PostgreSQL. User can check course they want to attend, and pay it.
   [Fitness Website Project](https://github.com/ofiscarlett/fitnessProject.git)
 - **Offering Letter Creator Project** - This a small project which help HR to generate offering letter by give input on website. 
-- **REACT Projects:**
-  - **To-Do List App** - An interactive and user-friendly task management application.
-  - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
-  - **Shooting center user app** - For shooting center employee easy to find user and upload their video.[Shooting Center USer App](https://github.com/ofiscarlett/ruutikangas-userapp)
-  - **Voice to EHR MVP1** - Use AI to transcirbt voice to raw text then start EHR, the system use AI to analyze the transcribed text and sturcted it to medical categories. [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
+
 - **School practice project** 
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
 
