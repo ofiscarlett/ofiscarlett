@@ -17,7 +17,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
   - **Voice to EHR MVP1** - Use AI to transcirbt voice to raw text then start EHR, the system use AI to analyze the transcribed text and sturcted it to medical categories. [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
   - **Voice to EHR MVP2** - This is the MVP 1 extension, we integrate the open-source platform EHRbase as the backend service,
 and follow the openEHR archetype template to structure and store patient EHRs. Since the EHRbase format is not easy to read,
-we also save a simplified version to a second location — the cloud database. The app will retrieves from there for doctor easy to previous record. [Voice-to-EHR-MVP2]()
+we also save a simplified version to a second location — the cloud database. The app will retrieves from there for doctor easy to previous record. [Voice-to-EHR-MVP2](https://github.com/ofiscarlett/voice-to-ehr-mvp2)
 - **Kotlin** 
   - **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing) 
  [Ruutinkangas Drone Project](https://github.com/ofiscarlett/RuutikangasProject)
