@@ -15,6 +15,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
   - **Shooting center user app** - For shooting center employee easy to find user and upload their video.[Shooting Center USer App](https://github.com/ofiscarlett/ruutikangas-userapp)
   - **Voice to EHR MVP1** - Use AI to transcirbt voice to raw text then start EHR, the system use AI to analyze the transcribed text and sturcted it to medical categories. [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
+  - **Voice to EHR MVP2** - The MVP2 extendtion, use open source: Open EHRbase as a backend service, and follow EHR archtype template to save patient EHR. Use SQL protrage database to save patient EHR. . [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
 - **Kotlin** 
   - **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing) 
  [Ruutinkangas Drone Project](https://github.com/ofiscarlett/RuutikangasProject)
