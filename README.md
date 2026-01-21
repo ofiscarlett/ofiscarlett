@@ -5,7 +5,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 ## 📚 Education
 - **Bachelor's Degree in Information Technology**
   - Oulu University of Applied Sciences (OAMK)
-  - 3rd Year
+  - 4th Year
 
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
