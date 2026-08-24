@@ -9,7 +9,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 ### AI Projects
 - **Rising Star**  
   A full-stack AI analytics platform for discovering and evaluating high-potential companies.  
-  I independently designed the system architecture and built the platform from end to end, including the backend data pipeline, RSS news collection, Lovable news ingestion, AI-based deduplication, company news processing, structured data extraction, automated scoring workflows, scheduled jobs, and Supabase integration.  
+  I designed and built the entire system from scratch, including the architecture, backend services, RSS and Lovable news ingestion, AI-based deduplication and summarization pipeline, structured company signal extraction, automated Rising Star scoring workflow, scheduled jobs, and Supabase database integration.  
   Due to confidentiality reasons, the repository cannot be shared publicly.
 
 - **EDUHENS**  
@@ -30,11 +30,10 @@ I'm a third-year Information Technology student at OAMK with a passion for build
   - **Parcel Delivery App** - A service-oriented application to track and manage parcel deliveries efficiently.[Parcel Delivery App](https://github.com/ofiscarlett/parcelDeliveryApp)
   - **Shooting center user app** - For shooting center employee easy to find user and upload their video.[Shooting Center USer App](https://github.com/ofiscarlett/ruutikangas-userapp)
   - **Voice to EHR MVP1** - Use AI to transcirbt voice to raw text then start EHR, the system use AI to analyze the transcribed text and sturcted it to medical categories. [Voice-to-EHR](https://github.com/ofiscarlett/voice-to-ehr-teamwork)
-  Here is the demo video [Voice2EHRMVP1-DemoVideo](https://www.youtube.com/watch?v=-ABs38dIzYc)
   - **Voice to EHR MVP2** - This is the MVP 1 extension, we integrate the open-source platform EHRbase as the backend service,
 and follow the openEHR archetype template to structure and store patient EHRs. Since the EHRbase format is not easy to read,
-we also save a simplified version to a second location — the cloud database. The app will retrieves from there for doctor easy to previous record. GitRepo [Voice-to-EHR-MVP2](https://github.com/ofiscarlett/voice-to-ehr-mvp2) The demo video [Voice-to-EHR-MVP2-DemoVideo](https://youtu.be/NejdSlW5hR8).
- - **SQL Learning Tool** - This is the summer training project, create a platform for teacher can create new questions for studnets to learn SQL. [SQL-Learning-tool-DemoVideo](https://www.youtube.com/watch?v=qpULQpxnWWo)
+we also save a simplified version to a second location — the cloud database. The app will retrieves from there for doctor easy to previous record. GitRepo [Voice-to-EHR-MVP2](https://github.com/ofiscarlett/voice-to-ehr-mvp2) 
+ - **SQL Learning Tool** - This is the summer training project, create a platform for teacher can create new questions for studnets to learn SQL.
 
 - **Kotlin** 
   - **Drone Project for Oulu local Company** - We get a project use kotlin to control drone function. Help local shooting center can easierr retrive drone videos, photo and send to their customers. (Ongoing) 
