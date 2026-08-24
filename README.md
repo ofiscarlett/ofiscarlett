@@ -8,7 +8,7 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 ## 📚 Protofolio
 - **AI**
   - **Rising Star** - A 
-  - **EDUHENS** - A education application for user and teacher can prepare their teaching material in one min. [EduHens](http(https://youtu.be/QjERSfO0tRc))
+  - **EDUHENS** - A education application for user and teacher can prepare their teaching material in one min. [EduHens](http(https://youtu.be/QjERSfO0tRc)
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
 - **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring.
