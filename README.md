@@ -7,19 +7,16 @@ I'm a third-year Information Technology student at OAMK with a passion for build
   - Oulu University of Applied Sciences (OAMK)
 ## 📚 Protofolio
 ### AI Projects
-
 - **Rising Star**  
   A full-stack AI analytics platform for discovering and evaluating high-potential companies.  
-  I worked on the backend data pipeline, including RSS news collection, Lovable news ingestion, AI-based deduplication, company news processing, structured data extraction, and automated scoring workflows.  
-  The project includes scheduled jobs, Supabase integration, news filtering, and multi-stage AI processing.  
+  I independently designed the system architecture and built the platform from end to end, including the backend data pipeline, RSS news collection, Lovable news ingestion, AI-based deduplication, company news processing, structured data extraction, automated scoring workflows, scheduled jobs, and Supabase integration.  
   Due to confidentiality reasons, the repository cannot be shared publicly.
 
 - **EDUHENS**  
   An education application that helps users and teachers prepare teaching materials in one minute using AI-assisted content generation.
 
  # 🎬 Demo Videos
-
-- **Rising Star** - Demo video coming soon
+- **Rising Star** -[Watch Demo](https://youtu.be/enlzD8xEzzs)
 - **EDUHENS** - [Watch Demo](https://youtu.be/QjERSfO0tRc)
 - **Voice to EHR MVP1** - [Watch Demo](https://www.youtube.com/watch?v=-ABs38dIzYc)
 - **Voice to EHR MVP2** - [Watch Demo](https://youtu.be/NejdSlW5hR8)
