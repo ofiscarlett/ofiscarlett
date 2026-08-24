@@ -54,12 +54,15 @@ we also save a simplified version to a second location — the cloud database. T
 
 
 ## 💻 Skills
-- **Front-End Development:** Proficient in creating responsive and interactive UI designs.
-- **Back-End Development:** Experience in server-side logic and database management.
-- **Programming Languages:** Skilled in JavaScript, TypeScript, React and Python.
-- **Web Technologies:** Well-versed in HTML, CSS, and React.js framework.
-- **Databases:** Knowledgeable in SQL and PostgreSQL.
-- **Other:** Familiar with Node.js for building scalable network applications.
+
+- **Languages:** JavaScript, TypeScript, Python, Kotlin, Java, SQL.
+- **Frontend:** React, HTML, CSS, responsive UI design, interactive web applications.
+- **Backend:** Node.js, Express.js, REST APIs, authentication, scheduled jobs, API integrations.
+- **AI & Data:** AI-assisted text processing, news pipelines, deduplication, summarization, structured data extraction, scoring systems.
+- **Databases:** PostgreSQL, Supabase, SQL, Prisma.
+- **Mobile:** Android development with Kotlin.
+- **Healthcare Tech:** OpenEHR, EHRbase, voice-to-EHR workflows.
+- **Tools:** Git, GitHub, Docker basics, Stripe integration, Telegram bot integration.
 
 ## 📈 Progress & Passion
 I believe in continuous learning and am committed to enhancing my skills as a developer. I am currently working on expanding my portfolio with diverse projects that showcase my abilities in both front-end and back-end development.
