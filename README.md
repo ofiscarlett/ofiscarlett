@@ -5,8 +5,10 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 ## 📚 Education
 - **Bachelor's Degree in Information Technology**
   - Oulu University of Applied Sciences (OAMK)
-  - 4th Year
-
+## 📚 Protofolio
+- **AI**
+  - **Rising Star** - A 
+  - **EDUHENS** - A education application for user and teacher can prepare their teaching material in one min. [EduHens](http(https://youtu.be/QjERSfO0tRc))
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
 - **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring.
@@ -33,10 +35,6 @@ we also save a simplified version to a second location — the cloud database. T
 
 - **School practice project** 
 - **Number Guess Game** - Java game without interface desgin, for java practice. [Number Guess Game](https://github.com/ofiscarlett/numberguess.git)
-
-
-
- 
 
 
 ## 💻 Skills
