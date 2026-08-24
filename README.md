@@ -6,9 +6,25 @@ I'm a third-year Information Technology student at OAMK with a passion for build
 - **Bachelor's Degree in Information Technology**
   - Oulu University of Applied Sciences (OAMK)
 ## 📚 Protofolio
-- **AI**
-  - **Rising Star** - A 
-  - **EDUHENS** - A education application for user and teacher can prepare their teaching material in one min. [EduHens](http(https://youtu.be/QjERSfO0tRc)
+### AI Projects
+
+- **Rising Star**  
+  A full-stack AI analytics platform for discovering and evaluating high-potential companies.  
+  I worked on the backend data pipeline, including RSS news collection, Lovable news ingestion, AI-based deduplication, company news processing, structured data extraction, and automated scoring workflows.  
+  The project includes scheduled jobs, Supabase integration, news filtering, and multi-stage AI processing.  
+  Due to confidentiality reasons, the repository cannot be shared publicly.
+
+- **EDUHENS**  
+  An education application that helps users and teachers prepare teaching materials in one minute using AI-assisted content generation.
+
+ # 🎬 Demo Videos
+
+- **Rising Star** - Demo video coming soon
+- **EDUHENS** - [Watch Demo](https://youtu.be/QjERSfO0tRc)
+- **Voice to EHR MVP1** - [Watch Demo](https://www.youtube.com/watch?v=-ABs38dIzYc)
+- **Voice to EHR MVP2** - [Watch Demo](https://youtu.be/NejdSlW5hR8)
+- **SQL Learning Tool** - [Watch Demo](https://www.youtube.com/watch?v=qpULQpxnWWo)
+  
 ## 🛠️ Projects
 - **Python** - Machine learing, computer version and data anyalsis.
 - **Trading View notification to Telegram** - A personal project automating stock market notifications. Configured TradingView for technical analysis and integrated it with Telegram to deliver alerts, minimizing the need for constant stock monitoring.
