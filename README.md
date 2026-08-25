@@ -1,6 +1,6 @@
 # Hello, I'm Scarlett! 👋
 
-I'm a third-year Information Technology student at OAMK with a passion for building and exploring new technologies.
+I'm an Information Technology graduate from Oulu University of Applied Sciences (OAMK), focused on software development, AI integration, and automation.
 
 ## 📚 Education
 - **Bachelor's Degree in Information Technology**
