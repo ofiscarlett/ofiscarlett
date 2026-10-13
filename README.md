@@ -18,7 +18,6 @@ I'm an Information Technology graduate from Oulu University of Applied Sciences 
  # 🎬 Demo Videos
 - **Rising Star** -[Watch Demo](https://youtu.be/enlzD8xEzzs)
 - **EDUHENS** - [Watch Demo](https://youtu.be/QjERSfO0tRc)
-- **Voice to EHR MVP1** - [Watch Demo](https://www.youtube.com/watch?v=-ABs38dIzYc)
 - **Voice to EHR MVP2** - [Watch Demo](https://youtu.be/NejdSlW5hR8)
 - **SQL Learning Tool** - [Watch Demo](https://www.youtube.com/watch?v=qpULQpxnWWo)
   
